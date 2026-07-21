@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi there 👋 I'm Nguyễn Ocean
+# Hi there 👋 I'm Nguyen Ngoc Hai
 
-### Data Engineering Student • Machine Learning Enthusiast • AI Researcher
+### Data Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Data+Engineering+Student;Machine+Learning+Enthusiast;AI+Researcher;Computer+Vision+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Data+Engineering+Student;Always+Learning+Something+New" alt="Typing SVG" />
 
 <br>
 
@@ -14,11 +14,11 @@
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-🎓 Third-year **Data Engineering** student
+Third-year **Data Engineering** student
 
-💻 Passionate about
+Passionate about
 
 - Machine Learning
 - Artificial Intelligence
@@ -26,27 +26,24 @@
 - Data Engineering
 - Big Data
 
-🔬 Current interests
+Current interests
 
-- Sign Language Recognition
-- Multimodal AI
-- Deep Learning
-- MLOps
+- ML
 - Data Warehouse
+- Data Lakehouse
 - ETL Pipeline
 
-🌱 Currently learning
+Currently learning
 
 - Apache Spark
 - Apache Airflow
 - Delta Lake
 - Docker
-- Kubernetes
-- PyTorch
+- ML
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 ## Programming Languages
 
@@ -57,10 +54,6 @@
 ---
 
 ## AI / Machine Learning
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
 
 **Libraries**
 
@@ -92,14 +85,14 @@ Experienced with
 ## Development Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
 ---
 
-# 📌 Featured Projects
+# Featured Projects
 
-## 🤟 Vietnamese Sign Language Recognition
+## Vietnamese Sign Language Recognition
 
 A deep learning project for recognizing Vietnamese Sign Language using Computer Vision.
 
@@ -114,7 +107,7 @@ A deep learning project for recognizing Vietnamese Sign Language using Computer 
 
 ---
 
-## 📊 Lakehouse Data Engineering
+## Lakehouse Data Engineering
 
 End-to-end Lakehouse architecture built with
 
@@ -133,7 +126,7 @@ Features
 
 ---
 
-## 🏪 Bookstore Management System
+## Bookstore Management System
 
 Desktop application developed with
 
@@ -143,7 +136,7 @@ Desktop application developed with
 
 ---
 
-## 📈 Mental Health Data Analysis
+## Mental Health Data Analysis
 
 Data analytics project using
 
@@ -153,7 +146,7 @@ Data analytics project using
 
 ---
 
-# 📈 GitHub Statistics
+# GitHub Statistics
 
 <div align="center">
 
@@ -171,13 +164,13 @@ Data analytics project using
 
 ---
 
-# 📊 Contribution Graph
+# Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ngochai62325-maker&theme=tokyo-night)
 
 ---
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 
 <div align="center">
 
@@ -187,31 +180,15 @@ Data analytics project using
 
 ---
 
-# 🎯 2026 Goals
+# 2026 Goals
 
-- 📄 Publish AI research papers
-- 🤖 Build practical AI applications
-- ☁️ Master Data Engineering
-- 🚀 Learn MLOps
-- 🌍 Contribute to Open Source
-- 💼 Become an AI / Data Engineer
+- Master Data Engineering
+- Learn MLOps
+- Become an Data Engineer
 
 ---
 
-# 📚 Currently Learning
-
-- Deep Learning
-- Computer Vision
-- Apache Spark
-- Apache Airflow
-- Kubernetes
-- Docker
-- MLOps
-- Distributed Computing
-
----
-
-# 📫 Connect with Me
+# Connect with Me
 
 <p align="left">
 
