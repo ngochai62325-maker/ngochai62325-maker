@@ -85,66 +85,50 @@ Experienced with
 ## Development Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
 # Featured Projects
 
-## Vietnamese Sign Language Recognition
+## Data Lakehouse for E-Commerce Analytics
 
-A deep learning project for recognizing Vietnamese Sign Language using Computer Vision.
+An end-to-end **Data Lakehouse** built on the Medallion Architecture (Bronze → Silver → Gold) for processing and analyzing large-scale e-commerce data.
 
-**Tech**
+### Highlights
+- Designed a complete Medallion Architecture using Delta Lake
+- Built scalable ETL pipelines with Apache Spark
+- Automated workflows using Apache Airflow DAGs
+- Containerized the entire infrastructure with Docker
+- Stored datasets on AWS S3
+- Ensured ACID transactions with Delta Lake
+- Produced analytics-ready datasets for downstream consumption
 
-- Python
-- PyTorch
-- OpenCV
-- MediaPipe
-- CNN
-- MLP
+**Tech Stack**
 
----
+`PySpark` • `Delta Lake` • `Apache Airflow` • `Docker` • `PostgreSQL` • `AWS S3`
 
-## Lakehouse Data Engineering
-
-End-to-end Lakehouse architecture built with
-
-- Apache Spark
-- Airflow
-- Delta Lake
-- PostgreSQL
-- Docker
-
-Features
-
-- Bronze Layer
-- Incremental ETL
-- Data Quality Validation
-- Batch Processing
+🔗 Repository: https://github.com/ngochai62325-maker/data-lakehouse
 
 ---
 
-## Bookstore Management System
+## Fashion Store Data Warehouse
 
-Desktop application developed with
+Designed and implemented an enterprise-style Data Warehouse for a fashion retail business, transforming raw CSV data into analytical models for business intelligence.
 
-- Java
-- SQL Server
-- Swing
+### Highlights
+- Built an end-to-end ETL pipeline (Raw → Staging → Data Warehouse)
+- Designed a Constellation Schema with multiple fact and dimension tables
+- Developed automated data quality validation
+- Integrated PostgreSQL and Docker for reproducible deployment
+- Delivered analytical datasets for Power BI dashboards
 
----
+**Tech Stack**
 
-## Mental Health Data Analysis
+`Python` • `Pandas` • `PostgreSQL` • `Docker` • `Power BI`
 
-Data analytics project using
-
-- R
-- Random Forest
-- R Markdown
-
----
+🔗 Repository: https://github.com/kung-da/european-fashion
 
 # GitHub Statistics
 
