@@ -1,78 +1,94 @@
-# Hi there, I'm Ngoc Hai 👋 
+<h1 align="center">Xin chào, mình là Hải (Ocean) 👋</h1>
+<h3 align="center">Data Engineer & Data Analyst | Sinh viên HCMUTE</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Warehousing+%7C+ETL+Pipelines;Big+Data+%26+Machine+Learning;Building+data+lakehouses+one+layer+at+a+time" alt="Typing SVG" />
+</p>
+
+---
+
+### 🧭 Về mình
+
+- 🎓 Sinh viên ngành Công nghệ thông tin tại **Trường Đại học Sư phạm Kỹ thuật TP.HCM (HCMUTE)**
+- 🛠️ Đang tập trung vào **Data Engineering** và **Data Analysis**: thiết kế data warehouse, xây dựng pipeline ETL/ELT, và phân tích dữ liệu ứng dụng.
+- 📚 Hiện đang tham gia nghiên cứu học thuật về **nhận diện ngôn ngữ ký hiệu (Sign Language Recognition)**, so sánh các bộ dữ liệu VSL và ASL.
+- 🌱 Không ngừng học hỏi về kiến trúc dữ liệu hiện đại: Medallion Architecture, Galaxy Schema, SCD, CDC.
+
+---
+
+### 🧰 Công nghệ & Công cụ
+
+**Data Engineering**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-004D40?style=flat-square)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+
+**Data Analysis & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Khác**
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 🚀 Dự án nổi bật
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🏗️ Data Lakehouse – Olist E-commerce</h4>
+      <p>Xây dựng hệ thống Data Lakehouse theo kiến trúc Medallion (Bronze/Silver/Gold) sử dụng Docker, Apache Airflow, Apache Spark và AWS S3 trên bộ dữ liệu thương mại điện tử Brazil.</p>
+    </td>
+    <td width="50%">
+      <h4>🚕 NYC TLC Data Warehouse</h4>
+      <p>Thiết kế Galaxy Schema, xây dựng pipeline ETL với SSIS, triển khai SCD Type 2 và CDC bằng MERGE statement trên SQL Server 2022.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>📡 Telco Customer Churn Warehouse</h4>
+      <p>Thiết kế Galaxy Schema (3 fact tables, 4 dimension tables) và pipeline dự đoán churn kết hợp SQL Server, SSIS, scikit-learn, Prophet và Power BI.</p>
+    </td>
+    <td width="50%">
+      <h4>📈 ICOR Analysis – Vietnam</h4>
+      <p>Phân tích hệ số ICOR của Việt Nam từ dữ liệu World Bank: kiểm định tính dừng, xử lý bậc tự do, kiểm định nhân quả Granger.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🎰 Multi-Armed Bandit cho CTR Optimization</h4>
+      <p>Nghiên cứu và đánh giá các thuật toán Epsilon-Greedy, Thompson Sampling, Categorical Bandits cho bài toán tối ưu CTR.</p>
+    </td>
+    <td width="50%">
+      <h4>🤟 Sign Language Recognition Datasets</h4>
+      <p>Nghiên cứu học thuật so sánh các bộ dữ liệu VSL và ASL, hướng tới công bố trên IEEE Access.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top Languages" width="42%"/>
+</p>
+
+---
+
+### 📫 Kết nối với mình
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-> **Data Engineering Student @ HCMUTE**  
-> Passioned about building scalable Data Infrastructure, Data Warehousing, and Automated Data Pipelines.
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently focusing on **Data Lakehouse Architecture**, **ETL/ELT Pipelines**, and **Cloud Infrastructure**.
-- 🛠 Building end-to-end data pipelines using **PySpark, Delta Lake, Apache Airflow, and Docker**.
-- 💡 Experienced in designing **Data Warehouse models (Star/Snowflake Schema)** and handling **SCD Type 1/2** with MS SQL Server & SSIS.
-- 🎯 Goal: Designing reliable, highly available data systems that empower data-driven decisions.
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages & Querying
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### ⚙️ Data Processing & Orchestration
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-000000?style=for-the-badge&logo=delta&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![SSIS](https://img.shields.io/badge/MS_SSIS-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-### 🛢 Databases & Data Storage
-![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS Redshift](https://img.shields.io/badge/AWS_Redshift-527FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-
-### 🐳 DevOps, Cloud & BI Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?style=for-the-badge&logo=apache&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-
----
-
-## 📌 Featured Projects
-
-### 🌊 [E-Commerce Data Lakehouse Platform](https://github.com/YOUR_USERNAME/data-lakehouse-project)
-> **Tech Stack:** PySpark, Delta Lake, AWS S3, Apache Airflow, Docker
-- **Problem:** Xử lý và phân tích tập dữ liệu thương mại điện tử lớn với độ trễ thấp và đảm bảo tính nhất quán dữ liệu.
-- **Solution:** Thiết kế kiến trúc Data Lakehouse trên AWS S3 và Delta Lake, tự động hóa luồng Ingestion & Transformation bằng Apache Airflow DAGs đóng gói trong Docker.
-- **Key Highlight:** Đảm bảo thuộc tính ACID cho Data Lake và tối ưu truy vấn dữ liệu lớn.
-
----
-
-### 📦 [Enterprise Data Warehouse & SSIS Pipeline](https://github.com/YOUR_USERNAME/enterprise-dwh-ssis)
-> **Tech Stack:** MS SQL Server, SSIS, SSAS, Apache Superset
-- **Problem:** Tích hợp dữ liệu giao dịch từ nhiều nguồn rải rác về một hệ thống tập trung phục vụ báo cáo BI.
-- **Solution:** Dựng Data Warehouse theo mô hình Star Schema, xử lý Slowly Changing Dimensions (SCD Type 1 & Type 2), thiết lập quy trình ETL tự động bằng SSIS Packages và trực quan hóa trên Apache Superset.
-- **Key Highlight:** Chuẩn hóa toàn bộ Dim/Fact tables và tối ưu hiệu năng load dữ liệu theo lô.
-
----
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-<p align="center">
-  <i>"Data is the new oil, but Data Engineering is the refinery."</i>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
