@@ -167,7 +167,7 @@ Designed and implemented an enterprise-style Data Warehouse for a fashion retail
 # 2026 Goals
 
 - Master Data Engineering
-- Learn MLOps
+- Learn ML
 - Become an Data Engineer
 
 ---
